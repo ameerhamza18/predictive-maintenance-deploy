@@ -4,8 +4,5 @@ scikit-learn==1.5.1
 xgboost==2.1.0
 shap==0.46.0
 matplotlib==3.9.1
-gradio==4.44.0
-huggingface_hub==0.24.6
-fastapi==0.112.2
-starlette==0.38.6
+streamlit==1.38.0
 joblib==1.4.2
